@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me wahumuiruri1@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love biscuits and yoghurt
+- ⚡ Fun fact: I am a sweet tooth
 
 <!---
 WahuMuiruri/WahuMuiruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
